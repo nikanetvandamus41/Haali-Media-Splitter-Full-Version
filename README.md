@@ -233,4 +233,4 @@ This repository serves as the official landing page for Haali Media Splitter. Th
 **Get the most recent version of Haali Media Splitter today!**
 
 ---
-**Last updated:** 2026-09-12 23:49:07 UTC
+**Last updated:** 2026-09-13 03:40:56 UTC
